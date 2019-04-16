@@ -19,6 +19,6 @@ xEF, xBB, xBF
 whould be the same as 239, 187, 191
 
 # Installation
-To deploy this module to a SAP PI System you have to install NWDS in the version of your PI and follow this documentation to generate the neccessary ECB: https://blogs.sap.com/2015/01/29/create-sap-pi-adapter-modules-in-ejb-30-standard/
+To deploy this module to a SAP PI System you have to install NWDS in the version of your PI and follow this documentation to generate the neccessary EJB: https://blogs.sap.com/2015/01/29/create-sap-pi-adapter-modules-in-ejb-30-standard/
 
 cu DerPilz
